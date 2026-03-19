@@ -1,0 +1,7 @@
+{
+  "name": "Preventivo Facile AI_25_lvoci fatte bene anche in fase iniziale",
+  "description": "Generatore intelligente di preventivi per lavori edili e manutenzioni. Inserisci la provincia e una descrizione, l\u0027AI stima misure e costi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
